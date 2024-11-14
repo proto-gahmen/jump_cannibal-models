@@ -1,9 +1,8 @@
-$modelname	"..\props\sacro_bosco.mdl"
+$modelname	"sacro_bosco.mdl"
 $body mybody	"sacro_bosco.smd"
 
 $surfaceprop	"default"
 $cdmaterials	"models/props"
 
-$sequence idle	"myfirstmodel-ref"
+$sequence idle	"sacro_bosco"
 
-$collisionmodel	"myfirstmodel-phys" { $concave }
