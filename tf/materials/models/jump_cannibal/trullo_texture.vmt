@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/jump_cannibal/trullo_texture"
+	"$translucent" 1
+}
